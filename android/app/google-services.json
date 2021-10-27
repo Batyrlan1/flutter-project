@@ -1,0 +1,49 @@
+{
+    "project_info": {
+        "project_number": "38863986036",
+        "firebase_url": "https://tau-d1d9c-default-rtdb.firebaseio.com",
+        "project_id": "tau-d1d9c",
+        "storage_bucket": "tau-d1d9c.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:38863986036:android:b27c7d040c3214b616e021",
+            "android_client_info": {
+                "package_name": "com.batyrlan.tau"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "38863986036-4iip8o2pt08tbt095a3kdjl87f8f9630.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.batyrlan.tau",
+                    "certificate_hash": "634b02bb41e992a46fb6424cfbe3b02cc7850c2a"
+                }
+            },
+            {
+                "client_id": "38863986036-00qsrocujip2f3s7kdvc89mqqtmtori9.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyAcJIgCSKT4iYM0P1DJ3q-P6MK9QUuxmy4"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                        "client_id": "38863986036-00qsrocujip2f3s7kdvc89mqqtmtori9.apps.googleusercontent.com",
+                        "client_type": 3
+                    },
+                    {
+                        "client_id": "38863986036-2bcnttls3hsqta0c8r141a2mjp0a7sdd.apps.googleusercontent.com",
+                        "client_type": 2,
+                        "ios_info": {
+                            "bundle_id": "com.batyrlan.tau"
+                        }
+                    }
+                ]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}

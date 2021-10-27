@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>38863986036-2bcnttls3hsqta0c8r141a2mjp0a7sdd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.38863986036-2bcnttls3hsqta0c8r141a2mjp0a7sdd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>38863986036-4iip8o2pt08tbt095a3kdjl87f8f9630.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEbFOAjF8BCrvV9-1tSPt7ZdPQjfRXFeU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>38863986036</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tau</string>
+	<key>PROJECT_ID</key>
+	<string>tau-d1d9c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tau-d1d9c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:38863986036:ios:c28008c8d592461516e021</string>
+	<key>DATABASE_URL</key>
+	<string>https://tau-d1d9c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
